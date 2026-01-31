@@ -1,0 +1,14 @@
+    {
+      "name": "Seo",
+      "slug": "seo",
+      "package": "keystonecms/plugin-seo",
+      "description": "Core SEO for pages functionality",
+      "author": "Keystone CMS",
+      "homepage": "https://github.com/keystonecms/plugin-seo",
+      "category": "core",
+      "version": "v1.0.2",
+      "min_keystone": "^1.0",
+      "migrations": true,
+      "assets": true,
+      "recommended": true
+    }

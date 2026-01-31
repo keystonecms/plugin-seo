@@ -1,0 +1,14 @@
+{
+  "name": "keystonecms/plugin-seo",
+  "type": "keystone-plugin",
+  "autoload": {
+    "psr-4": {
+      "Keystone\\Plugin\\Seo\\": "src/"
+    }
+  },
+  "extra": {
+    "keystone": {
+      "plugin-class": "Keystone\\Plugin\\Seo\\Plugin"
+    }
+  }
+}
